@@ -13,7 +13,7 @@ Este projeto é um sistema bancário básico desenvolvido em Python, permitindo 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario-python.git
+   git clone https://github.com/seu-usuario/dio-sistema-bancario.git
    ```
 
 2. **Navegue até o diretório do projeto:**
