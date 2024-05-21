@@ -19,7 +19,7 @@ Este projeto é um sistema bancário básico desenvolvido em Python, permitindo 
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd sistema-bancario-python
+   cd dio-sistema-bancario
    ```
 
 3. **Execute o script:**
